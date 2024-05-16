@@ -1,0 +1,28 @@
+Courses offered in SRH University Heidelberg
+
+I.	Master’s Degree Courses
+	1.	Business & Management
+		a.	Global Business and Leadership
+		b.	International Management and Leadership
+	2.	Engineering
+		a.	Information Technology
+		b.	International Business and Engineering
+		c.	Water Technology
+		d.	Blockchain Technology
+		e.	Artificial Intelligence
+	3.	Engineering & Construction
+		a.	Architecture – Design for the Built Environment
+	4.	Informatics & Big Data
+		a.	Applied Computer Science
+		b.	Applied Data Science and Analytics
+	5.	Therapy & Health
+		a.	Music Therapy	
+		b.	Dance Movement Therapy
+
+II.	Bachelor’s Degree Courses
+	6.	International Business
+	7.	Engineering Science
+		a.	Electrical Engineering
+		b.	Business Engineering
+		c.	Mechanical Engineering
+
